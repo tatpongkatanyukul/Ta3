@@ -18,4 +18,8 @@ Ajahn Brahm:
 
 ### The Abhidhamma in Practice by N. K. G. Mendis 2016. Access to Insight
 
-The Abhidhamma deals with realities existing in an ultimate sense, called in Pali ***paramattha dhamma*** . There are four such realities:
+The Abhidhamma deals with realities existing in an ultimate sense, called in Pali ***paramattha dhamma*** (ปรมัตถธรรม). There are four such realities:
+  * ***Citta*** (จิต)
+  * ***Cetasikas*** (เจตสิก)
+  * ***Ruupa*** (รูป)
+  * ***Nibbaana*** (นิพพาน)
