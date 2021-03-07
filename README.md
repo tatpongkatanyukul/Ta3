@@ -30,3 +30,5 @@ Nibbaana is an unconditioned reality. It does not arise and therefore does not f
 
 Citta, cetasikas, and ruupa make up **naama-ruupa** (นามรูป), the psycho-physica organism.
 Each of us, in the ultimate sense, is a naama-ruupa, a compound of mental and material phenomena, and nothing more.
+... The naama part of the compound is what experiences an object. The ruupa part does not experience anything. When the body is injured it is not the body, which is ruupa, that feels the pain, but naama, the mental side.
+
