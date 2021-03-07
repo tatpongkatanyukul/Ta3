@@ -40,12 +40,12 @@ Both naama and ruupa arise because of conditions and perish immediately, and thi
 Awareness is the process of cittas experiencing objects.
 
 Types of the Cittas
-  1 Cittas which are resultant states of consciousness, **vipaaka** (), the effects of previous kamma.
-  2 Cittas which are causes for action (**kamma** กรรม) through body, speech, or mind. We may call these "causative cittas". A wholesome citta(**kusala cita** กุศลจิต) will issue wholesome action and an unwholesome on (**akusala citta** อกุศลจิต) in unwholesome action.
-  3 Cittas which are neither kamma nor its result. These are called **kiriya cittas** (กิริยาจิต). They are kammically ineffectively, being merely functional. Some kiriya cittas perform simple functions in the process of consciousness, others represent the actoins and thoughts of arahants, who no longer generate fresh kamma.
+  #1 Cittas which are resultant states of consciousness, **vipaaka** (), the effects of previous kamma.
+  #2 Cittas which are causes for action (**kamma** กรรม) through body, speech, or mind. We may call these "causative cittas". A wholesome citta(**kusala cita** กุศลจิต) will issue wholesome action and an unwholesome on (**akusala citta** อกุศลจิต) in unwholesome action.
+  #3 Cittas which are neither kamma nor its result. These are called **kiriya cittas** (กิริยาจิต). They are kammically ineffectively, being merely functional. Some kiriya cittas perform simple functions in the process of consciousness, others represent the actoins and thoughts of arahants, who no longer generate fresh kamma.
   
  #### Mind in its passive and active forms
  
  **Bhavanga** (ภวังค์) is the primary form of mind. It flows from conception to death except when interrupted by a stimulus through one the sense doors. When a stimulus enters, consciousness becomes active, launching into a thought process (**citta viithi**).
-  1 A bhavanga that flows by in a passive state.
+  #1 A bhavanga that flows by in a passive state.
 
