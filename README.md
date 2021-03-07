@@ -47,5 +47,6 @@ Types of the Cittas
  #### Mind in its passive and active forms
  
  **Bhavanga** (ภวังค์) is the primary form of mind. It flows from conception to death except when interrupted by a stimulus through one the sense doors. When a stimulus enters, consciousness becomes active, launching into a thought process (**citta viithi**).
-  * A bhavanga that flows by in a passive state.
+  * A bhavanga that flows by in a passive state when one of the five physical sense organs coming in contact with its object. (**atiita bhavanga** อตีตภวังค์)
+  * A bhavanga that vibrates for one thought moment (**bhavanga calana** ภวังค์จลนะ)
 
