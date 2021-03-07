@@ -1,5 +1,5 @@
 # Ta3
-ตถาตา มันเป็นเช่นนั้นเอง
+***ตถาตา*** มันเป็นเช่นนั้นเอง
 
 เรียนรู้ไปเรื่อย ๆ ... วันหนึ่ง จะถึงเวลาของมันเอง
 (เริ่ม อาทิตย์ 7 มี.ค. 64)
@@ -12,6 +12,6 @@ Ajahn Brahm:
 ---
 
 ## เขียนไว้เก่า ๆ 
-  * [Samsara: logics and discussions (Apr 9, 2016)]
+  * [Samsara: logics and discussions (Apr 9, 2016)](https://github.com/tatpongkatanyukul/Ta3/blob/main/samsara1.md)
 
 ## 2021
