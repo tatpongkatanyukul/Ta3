@@ -29,6 +29,10 @@ Ajahn Brahm:
 
 [วิปัสสนา](https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%9B%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%99%E0%B8%B2)
 
+> สพฺเพ ธมฺมา นาลํ อภินิเวสาย
+
+> สิ่งทั้งหลายทั้งปวงไม่ควรยึดมั่นถือมั่น
+
 ### The Abhidhamma in Practice by N. K. G. Mendis 2016. Access to Insight
 
 The Abhidhamma deals with realities existing in an ultimate sense, called in Pali ***paramattha dhamma*** (ปรมัตถธรรม). There are four such realities:
