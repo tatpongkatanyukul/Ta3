@@ -16,6 +16,15 @@ Ajahn Brahm:
 
 ## 2021
 
+### นิยาม 5
+
+[นิยาม 5](https://th.wikipedia.org/wiki/%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A1_5)
+  * อุตุนิยาม (physical laws)
+  * พีชนิยาม (biological laws)
+  * จิตนิยาม (psychic law) กฎธรรมชาติเกี่ยวกับการทำงานของจิต เจตสิก
+  * กรรมนิยาม (Karmic Laws) คือ กฎแห่งกรรม คือกฎแห่งการกระทำและผลของการกระทำ
+  * ธรรมนิยาม (General Laws) อันได้แก่กฎไตรลักษณ์ คือ อนิจจัง ทุกขัง อนัตตา
+
 ### The Abhidhamma in Practice by N. K. G. Mendis 2016. Access to Insight
 
 The Abhidhamma deals with realities existing in an ultimate sense, called in Pali ***paramattha dhamma*** (ปรมัตถธรรม). There are four such realities:
