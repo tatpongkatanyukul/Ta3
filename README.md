@@ -4,6 +4,9 @@
 เรียนรู้ไปเรื่อย ๆ ... วันหนึ่ง จะถึงเวลาของมันเอง
 (เริ่ม อาทิตย์ 7 มี.ค. 64)
 
+> นตฺถิ สนฺติปรํ สุขํ
+สุขอื่นยิ่งกว่าความสงบ ไม่มี
+
 ---
 
 Ajahn Brahm:
@@ -24,6 +27,84 @@ Ajahn Brahm:
   * จิตนิยาม (psychic law) กฎธรรมชาติเกี่ยวกับการทำงานของจิต เจตสิก
   * กรรมนิยาม (Karmic Laws) คือ กฎแห่งกรรม คือกฎแห่งการกระทำและผลของการกระทำ
   * ธรรมนิยาม (General Laws) อันได้แก่กฎไตรลักษณ์ คือ อนิจจัง ทุกขัง อนัตตา
+
+### อานาปานสติ
+
+[อานาปานสติ](https://84000.org/tipitaka/dic/d_item.php?i=346)
+
+#### มหาวาร. สํ. ๑๙/๓๙๖-๓๙๗/๑๓๑๑-๑๓๑๓
+
+...
+(จตุกกะที่ 1 : กายานุปัสสนา)
+  * เมื่อหายใจเข้ายาว ก็รู้ชัดว่าเราหายใจเข้ายาว, เมื่อหายใจออกยาว ก็รู้ชัดว่าเราหายใจออกยาว;
+    * Breathing in long, he knows: “I am breathing in long”,
+or breathing out long, he knows: “I am breathing out long”,
+
+  * เมื่อหายใจเข้าสั้น ก็รู้ชัดว่าเราหายใจเข้าสั้น, เมื่อหายใจออกสั้น ก็รู้ชัดว่าเราหายใจออกสั้น;
+    * Breathing in short, he knows: “I am breathing in short”:
+or breathing out short, he knows: “I am breathing out short”;
+
+  * เธอย่อมทำการฝึกหัดศึกษาว่า "เราเป็นผู้**รู้พร้อมเฉพาะซึ่งกายทั้งปวง** (สพฺพกายปฏิสํเวที) หายใจเข้า",
+ว่า "เราเป็นผู้รู้พร้อมเฉพาะซึ่งการทั้งปวง หายใจออก";
+    * He trains thus: “Experiencing the entire (breath-) body, I shall breathe in”,
+He trains thus: “Experiencing the entire (breath-) body, I shall breathe out”;
+
+  * ... เราเป็นผู้**ทำกายสังขารให้รำงับ** (ปสฺสมฺภยํ กายสงฺขารํ) ...
+    * He trains thus: “Calming the bodily formation, I shall breathe in”,
+He trains thus: “Calming the bodily formation, I shall breathe out”.
+
+
+(จตุกกะที่ 2 : เวทนานุปัสสนา)
+  * ... เราเป็นผู้**รู้พร้อมเฉพาะซึ่งปิติ** (ปีติปฏิสํเวที) ...
+    * He trains thus: “Experiencing rapture, I shall breathe in”,
+He trains thus: “Experiencing rapture, I shall breathe out”;
+
+  * ... เราเป็นผู้**รู้พร้อมเฉพาะซึ่งสุข** (สุขปฏิสํเวที) ...
+    * He trains thus: “Experiencing joy, I shall breathe in”,
+He trains thus: “Experiencing joy, I shall breathe out”; 
+
+  * ... เราเป็นผู้**รู้พร้อมเฉพาะซึ่งจิตตสังขาร** (จิตฺตสงฺขารปฏิสํเวที) ...
+    * He trains thus: “Experiencing the mental formation, I shall breathe in”,
+He trains thus: “Experiencing the mental formation, I shall breathe out”;
+
+  * ... เราเป็นผู้**ทำจิตตสังขารให้รำงับ** (ปสฺสมฺภยํ จิตฺตสงฺขารํ) ...
+    * He trains thus: “Calming the mental formation, I shall breathe in”,
+He trains thus: “Calming the mental formation, I shall breathe out”; 
+
+(จตุกกะที่ 3 : จิตตานุปัสสนา)
+  * ... เราเป็นผู้**รู้พร้อมเฉพาะซึ่งจิต** (จิตฺตปฏิสํเวที) ...
+    * He trains thus: “Experiencing the mind, I shall breathe in”,
+He trains thus: “Experiencing the mind, I shall breathe out”;
+
+  * ... เราเป็นผู้**ทำจิตให้ปราโมทย์ยิ่ง** (อภิปฺปโมทย์ จิตฺตํ) ...
+    * He trains thus: “Gladdening the mind, I shall breathe in”,
+He trains thus: “Gladdening the mind, I shall breathe out”;
+
+  * ... เราเป็นผู้**ทำจิตให้ตั้งมั่น** (สมาทหํ จิตฺตํ) ...
+    * He trains thus: “Concentrating the mind, I shall breathe in”,
+He trains thus: “Concentrating the mind, I shall breathe out”;
+
+  * ... เราเป็นผู้**ทำจิตให้ปล่อยอยู่** (วิโมจยํ จิตฺตํ) ...
+    * He trains thus: “Liberating the mind, I shall breathe in”,
+He trains thus: “Liberating the mind, I shall breathe out”. 
+
+(จตุกกะที่ 4 : ธัมมานุปัสสนา)
+  * ... เราเป็นผู้**เห็นซึ่งความไม่เที่ยงอยู่เป็นประจำ** (อนิจฺจานุปสฺสี) ...
+    * He trains thus: “Contemplating impermanence, I shall breathe in”,
+He trains thus: “Contemplating impermanence, I shall breathe out”;
+
+  * ... เราเป็นผู้**เห็นซึ่งความจางคลายอยู่เป็นประจำ** (วิราคานุปสฺสี) ...
+    * He trains thus: “Contemplating fading away, I shall breathe in”,
+He trains thus: “Contemplating fading away, I shall breathe out”;
+
+  * ... เราเป็นผู้**เห็นซึ่งความดับไม่เหลืออยู่เป็นประจำ** (นิโรธานุปสฺสี) ...
+    * He trains thus: “Contemplating cessation, I shall breathe in”,
+He trains thus: “Contemplating cessation, I shall breathe out”;
+
+  * ... เราเป็นผู้**เห็นซึ่งความสลัดคืนอยู่เป็นประจำ** (ปฏินิสฺสคฺคานุปสฺสี) ...
+    * He trains thus: “Contemplating relinquishment, I shall breathe in”,
+He trains thus: “Contemplating relinquishment, I shall breathe out”.
+
 
 ### วิปัสสนา
 
