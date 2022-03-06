@@ -333,6 +333,30 @@ The Blessed One said this: "This is the direct path for the purification of bein
 > Form as an aggregate for clinging/sustenance, feeling as an aggregate for clinging/sustenance, perception as an aggregate for clinging/sustenance, fabrications as an aggregate for clinging/sustenance, consciousness as an aggregate for clinging/sustenance: These are called the five aggregates for clinging/sustenance that, in short, are stress.
 > This is called the noble truth of stress.
 
+> [๒๙๖] ดูกรภิกษุทั้งหลาย ก็ทุกขสมุทัยอริยสัจ เป็นไฉน 
+> ตัณหานี้ใด อันมีความเกิดอีก ประกอบด้วยความกำหนัดด้วยอำนาจความเพลิดเพลิน 
+> เพลิดเพลินยิ่งนักในอารมณ์นั้น ๆ คือ กามตัณหา ภวตัณหา วิภวตัณหา ฯ
+
+> And what is the noble truth of the origination of stress? 
+> The craving that makes for further becoming -- accompanied by passion & delight, relishing now here & now there -- i.e., craving for sensuality, craving for becoming, craving for non-becoming.
+> And where does this craving, when arising, arise? 
+> And where, when dwelling, does it dwell? 
+> Whatever is endearing & alluring in terms of the world: that is where this craving, when arising, arises. That is where, when dwelling, it dwells.
+> And what is endearing & alluring in terms of the world? 
+> The eye is endearing & alluring in terms of the world. That is where this craving, when arising, arises. That is where, when dwelling, it dwells.
+> The ear... The nose... The tongue... The body... The intellect...
+> Forms... Sounds... Smells... Tastes... Tactile sensations... Ideas...
+> Eye-consciousness... Ear-consciousness... Nose-consciousness... Tongue-consciousness... Body-consciousness... Intellect-consciousness...
+> Eye-contact... Ear-contact... Nose-contact... Tongue-contact... Body-contact... Intellect-contact...
+> Feeling born of eye-contact... Feeling born of ear-contact... Feeling born of nose-contact... Feeling born of tongue-contact... Feeling born of body-contact... Feeling born of intellect-contact...
+> Perception of forms... Perception of sounds... Perception of smells... Perception of tastes... Perception of tactile sensations... Perception of ideas...
+> Intention for forms... Intention for sounds... Intention for smells... Intention for tastes... Intention for tactile sensations... Intention for ideas...
+> Craving for forms... Craving for sounds... Craving for smells... Craving for tastes... Craving for tactile sensations... Craving for ideas...
+> Thought directed at forms... Thought directed at sounds... Thought directed at smells... Thought directed at tastes... Thought directed at tactile sensations... Thought directed at ideas...
+> Evaluation of forms... Evaluation of sounds... Evaluation of smells... Evaluation of tastes... Evaluation of tactile sensations... Evaluation of ideas is endearing & alluring in terms of the world.
+> That is where this craving, when arising, arises. That is where, when dwelling, it dwells.
+> This is called the noble truth of the origination of stress.
+
 ## 10/348/299
 
 พุทธวจน
