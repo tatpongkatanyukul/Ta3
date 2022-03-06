@@ -18,17 +18,17 @@
 | ขนฺธ. สํ. | ขันธวารวรรค                         | สังยุตตนิกาย | Sn | Samyutta Nikaya |
 | สฬา. สํ. | สฬายตนวรรค                         | สังยุตตนิกาย | Sn | Samyutta Nikaya |
 | มหาวาร. สํ. | มหาวารวรรค                         | สังยุตตนิกาย | Sn | Samyutta Nikaya |
-| เอก. อํ. | เอกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya |
-| ทุก. อํ. | ทุกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya |
-| ติก. อํ. | ติกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya |
-| จตุกฺก. อํ. | จตุกกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya |
-| ปญฺจก. อํ. | ปัญจกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya |
-| ฉกฺก. อํ. | ฉักกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya |
-| สตฺตก. อํ. | สัตตกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya |
-| อฏฺฐก. อํ. | อัฏฐกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya |
-| นวก. อํ. | นวกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya |
-| ทสก. อํ. | ทสกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya |
-| เอกาทสก. อํ. | เอกทสกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya |
+| เอก. อํ. | เอกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya | AN1 |
+| ทุก. อํ. | ทุกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya | AN2 |
+| ติก. อํ. | ติกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya | AN3 |
+| จตุกฺก. อํ. | จตุกกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya | AN4 |
+| ปญฺจก. อํ. | ปัญจกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya | AN5 |
+| ฉกฺก. อํ. | ฉักกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya | AN6 |
+| สตฺตก. อํ. | สัตตกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya | AN7 |
+| อฏฺฐก. อํ. | อัฏฐกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya | AN8 |
+| นวก. อํ. | นวกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya | AN9 |
+| ทสก. อํ. | ทสกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya | AN10 |
+| เอกาทสก. อํ. | เอกทสกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya | AN11 |
 | ขุ. ขุ. | ขุททกปาฐะ                         | ขุททกนิกาย | Kn | Khuddaka Nikaya | Khuddakapatha |
 | ธ. ขุ. | ขุททกปาฐะ                         | ธรรมบท | Kn | Khuddaka Nikaya | Dhammapada |
 | อุ. ขุ. | ขุททกปาฐะ                         | อุทาน | Kn | Khuddaka Nikaya | Udana |
