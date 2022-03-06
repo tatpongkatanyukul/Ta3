@@ -303,6 +303,35 @@ The Blessed One said this: "This is the direct path for the purification of bein
 > เหล่านี้เรียกว่า โดยย่อ อุปาทานขันธ์ทั้ง ๕ เป็นทุกข์ ฯ
 > ดูกรภิกษุทั้งหลาย อันนี้เรียกว่า ทุกขอริยสัจ ฯ
 
+> Now what is the noble truth of stress? 
+> Birth is stress, aging is stress, death is stressful; sorrow, lamentation, pain, distress, & despair are stress; association with the unbeloved is stress; separation from the loved is stress; not getting what is wanted is stress. In short, the five aggregates for clinging/sustenance are stress.
+> And what is birth? 
+> Whatever birth, taking birth, descent, coming-to-be, coming-forth, appearance of aggregates, & acquisition of sense spheres of the various beings in this or that group of beings, that is called birth.
+> And what is aging? 
+> Whatever aging, decrepitude, brokenness, graying, wrinkling, decline of life-force, weakening of the faculties of the various beings in this or that group of beings, that is called aging.
+> And what is death? 
+> Whatever deceasing, passing away, breaking up, disappearance, dying, death, completion of time, break up of the aggregates, casting off of the body, interruption in the life faculty of the various beings in this or that group of beings, that is called death.
+> And what is sorrow? 
+> Whatever sorrow, sorrowing, sadness, inward sorrow, inward sadness of anyone suffering from misfortune, touched by a painful thing, that is called sorrow.
+> And what is lamentation? 
+> Whatever crying, grieving, lamenting, weeping, wailing, lamentation of anyone suffering from misfortune, touched by a painful thing, that is called lamentation.
+> And what is pain? 
+> Whatever is experienced as bodily pain, bodily discomfort, pain or discomfort born of bodily contact, that is called pain.
+> And what is distress? 
+> Whatever is experienced as mental pain, mental discomfort, pain or discomfort born of mental contact, that is called distress.
+> And what is despair? Whatever despair, despondency, desperation of anyone suffering from misfortune, touched by a painful thing, that is called despair.
+> And what is the stress of not getting what one wants? 
+> In beings subject to birth, the wish arises, 'O, may we not be subject to birth, and may birth not come to us.' But this is not be achieved by wishing. This is the stress of not getting what one wants. 
+> In beings subject to aging... illness... death... sorrow, lamentation, pain, distress, & despair, the wish arises, 'O, may we not be subject to aging... illness... death... sorrow, lamentation, pain, distress, & despair, and may aging... illness... death... sorrow, lamentation, pain, distress, & despair not come to us.' But this is not be achieved by wishing. This is the stress of not getting what one wants.
+> And what is the stress of association with the unbeloved? 
+> There is the case where undesirable, unpleasing, unattractive sights, sounds, aromas, flavors, or tactile sensations occur to one; or one has connection, contact, relationship, interaction with those who wish one ill, who wish for one’s harm, who wish for one’s discomfort, who wish one no security from the yoke. This is called the stress of association with the unbeloved.
+> And what is the stress of separation from the loved? 
+> There is the case where desirable, pleasing, attractive sights, sounds, aromas, flavors, or tactile sensations do not occur to one; or one has no connection, no contact, no relationship, no interaction with those who wish one well, who wish for one's benefit, who wish for one's comfort, who wish one security from the yoke, nor with one's mother, father, brother, sister, friends, companions, or relatives. This is called the stress of separation from the loved.
+> And what is the stress of not getting what is wanted? 
+> In beings subject to birth, the wish arises, 'O, may we not be subject to birth, and may birth not come to us.' But this is not be achieved by wishing. This is the stress of not getting what one wants. In beings subject to aging... illness... death... sorrow, lamentation, pain, distress, & despair, the wish arises, 'O, may we not be subject to aging... illness... death... sorrow, lamentation, pain, distress, & despair, and may aging... illness... death... sorrow, lamentation, pain, distress, & despair not come to us.' But this is not be achieved by wishing. This is the stress of not getting what is wanted.
+> And what are the five aggregates for clinging/sustenance that, in short, are stress? 
+> Form as an aggregate for clinging/sustenance, feeling as an aggregate for clinging/sustenance, perception as an aggregate for clinging/sustenance, fabrications as an aggregate for clinging/sustenance, consciousness as an aggregate for clinging/sustenance: These are called the five aggregates for clinging/sustenance that, in short, are stress.
+> This is called the noble truth of stress.
 
 ## 10/348/299
 
