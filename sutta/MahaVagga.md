@@ -235,6 +235,38 @@ The Blessed One said this: "This is the direct path for the purification of bein
 > Or his mindfulness that 'There are mental qualities' is maintained to the extent of knowledge & remembrance. 
 > And he remains independent, unsustained by (not clinging to) anything in the world. This is how a monk remains focused on mental qualities in & of themselves with reference to the five hindrances.
 
+> [๒๙๓] ดูกรภิกษุทั้งหลาย อีกข้อหนึ่ง ภิกษุพิจารณาเห็นธรรมในธรรม คือโพชฌงค์ ๗ 
+> ภิกษุพิจารณาเห็นธรรมในธรรมคือโพชฌงค์ ๗ อย่างไรเล่า 
+> ภิกษุ ในธรรมวินัยนี้ เมื่อสติสัมโพชฌงค์มีอยู่ ณ ภายในจิต ย่อมรู้ชัดว่า สติสัมโพชฌงค์มีอยู่ ณ ภายในจิตของเรา 
+> หรือเมื่อสติสัมโพชฌงค์ไม่มีอยู่ ณ ภายในจิต ย่อมรู้ชัดว่า สติสัมโพชฌงค์ไม่มีอยู่ ณ ภายในจิตของเรา 
+> อนึ่ง สติสัมโพชฌงค์ที่ยังไม่เกิดจะเกิดขึ้นด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย 
+> สติสัมโพชฌงค์ที่เกิดขึ้นแล้ว จะเจริญบริบูรณ์ด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย 
+> อีกอย่างหนึ่ง เมื่อธัมมวิจยสัมโพชฌงค์มีอยู่ ณ ภายในจิต ฯลฯ อีกอย่างหนึ่ง เมื่อวิริยสัมโพชฌงค์มีอยู่ ณ ภายในจิต ฯลฯ อีกอย่างหนึ่ง เมื่อปีติสัมโพชฌงค์ มีอยู่ ณ ภายในจิต ฯลฯ อีกอย่างหนึ่ง เมื่อปัสสัทธิสัมโพชฌงค์มีอยู่ ณ ภายในจิต ฯลฯ อีกอย่างหนึ่ง เมื่อสมาธิสัมโพชฌงค์มีอยู่ ณ ภายในจิต ฯลฯ
+> อีกอย่างหนึ่ง เมื่ออุเบกขาสัมโพชฌงค์มีอยู่ ณ ภายในจิต ย่อมรู้ชัดว่า อุเบกขาสัมโพชฌงค์มีอยู่ ณ ภายในจิตของเรา 
+> หรือเมื่ออุเบกขาสัมโพชฌงค์ไม่มีอยู่ ณ ภายในจิต ย่อมรู้ชัดว่า อุเบกขาสัมโพชฌงค์ไม่มีอยู่ ณ ภายในจิตของเรา 
+> อนึ่งอุเบกขาสัมโพชฌงค์ที่ยังไม่เกิดจะเกิดขึ้นด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย
+> อุเบกขาสัมโพชฌงค์ที่เกิดขึ้นแล้ว จะเจริญบริบูรณ์ด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย 
+> ดังพรรณนาฉะนี้ ภิกษุย่อมพิจารณาเห็นธรรมในธรรมภายในบ้าง
+> พิจารณาเห็นธรรมในธรรมภายนอกบ้าง 
+> พิจารณาเห็นธรรมในธรรมทั้งภายในทั้งภายนอกบ้าง 
+> พิจารณาเห็นธรรมคือความเกิดขึ้นในธรรมบ้าง 
+> พิจารณาเห็นธรรมคือความเสื่อมในธรรมบ้าง 
+> พิจารณาเห็นธรรมคือทั้งความเกิดขึ้นและความเสื่อมในธรรมบ้าง ย่อมอยู่ อีกอย่างหนึ่ง 
+> สติของเธอที่ตั้งมั่นอยู่ว่า ธรรมมีอยู่ ก็เพียงสักว่าความรู้ เพียงสักว่าอาศัยระลึกเท่านั้น เธอเป็นผู้อันตัณหาและทิฐิไม่อาศัยอยู่แล้ว และไม่ถือมั่นอะไร ๆ ในโลก 
+> ดูกรภิกษุทั้งหลาย อย่างนี้แล ภิกษุชื่อว่าพิจารณาเห็นธรรมในธรรมคือโพชฌงค์ ๗ อยู่ ฯ
+
+> Furthermore, the monk remains focused on mental qualities in & of themselves with reference to the seven factors of awakening. 
+> And how does he remain focused on mental qualities in & of themselves with reference to the seven factors of awakening? 
+> There is the case where, there being mindfulness as a factor of awakening present within, he discerns that 'Mindfulness as a factor of awakening is present within me.' 
+> Or, there being no mindfulness as a factor of awakening present within, he discerns that 'Mindfulness as a factor of awakening is not present within me.' 
+> He discerns how there is the arising of unarisen mindfulness as a factor of awakening. 
+> And he discerns how there is the culmination of the development of mindfulness as a factor of awakening once it has arisen. (The same formula is repeated for the remaining factors of awakening: analysis of qualities, persistence, rapture, serenity, concentration, & equanimity.)
+> In this way he remains focused internally on mental qualities in & of themselves, 
+> or externally... unsustained by (not clinging to) anything in the world. 
+> This is how a monk remains focused on mental qualities in & of themselves with reference to the seven factors of awakening.
+
+
+
 ## 10/348/299
 
 พุทธวจน
