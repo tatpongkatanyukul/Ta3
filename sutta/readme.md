@@ -13,11 +13,11 @@
 | มู. ม. | มูลปัณณาสก์                         | มัชฌิมนิกาย | Mn | Majjhima Nikaya |
 | ม. ม. | มัชฌิมปัณณาสก์                         | มัชฌิมนิกาย | Mn | Majjhima Nikaya |
 | อุปริ. ม. | อุปริปัณณาสก์                         | มัชฌิมนิกาย | Mn | Majjhima Nikaya |
-| สคาถ. สํ. | สคาถวรรค                         | สังยุตตนิกาย | Sn | Samyutta Nikaya |
-| นิทาน. สํ. | นิทานวรรค                         | สังยุตตนิกาย | Sn | Samyutta Nikaya |
-| ขนฺธ. สํ. | ขันธวารวรรค                         | สังยุตตนิกาย | Sn | Samyutta Nikaya |
-| สฬา. สํ. | สฬายตนวรรค                         | สังยุตตนิกาย | Sn | Samyutta Nikaya |
-| มหาวาร. สํ. | มหาวารวรรค                         | สังยุตตนิกาย | Sn | Samyutta Nikaya |
+| สคาถ. สํ. | สคาถวรรค                         | สังยุตตนิกาย | Sn | Samyutta Nikaya | [Sagatha Vagga](https://www.accesstoinsight.org/tipitaka/sn/index.html#sagatha) |
+| นิทาน. สํ. | นิทานวรรค                         | สังยุตตนิกาย | Sn | Samyutta Nikaya | [Nidana Vagga](https://www.accesstoinsight.org/tipitaka/sn/index.html#nidana) |
+| ขนฺธ. สํ. | ขันธวารวรรค                         | สังยุตตนิกาย | Sn | Samyutta Nikaya | [Khandha Vagga](https://www.accesstoinsight.org/tipitaka/sn/index.html#khandha) |
+| สฬา. สํ. | สฬายตนวรรค                         | สังยุตตนิกาย | Sn | Samyutta Nikaya | [Salayatana Vagga](https://www.accesstoinsight.org/tipitaka/sn/index.html#salayatana) |
+| มหาวาร. สํ. | มหาวารวรรค                         | สังยุตตนิกาย | Sn | Samyutta Nikaya | [Maha Vagga](https://www.accesstoinsight.org/tipitaka/sn/index.html#maha) |
 | เอก. อํ. | เอกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya | AN1 |
 | ทุก. อํ. | ทุกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya | AN2 |
 | ติก. อํ. | ติกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya | AN3 |
