@@ -264,7 +264,16 @@ The Blessed One said this: "This is the direct path for the purification of bein
 > or externally... unsustained by (not clinging to) anything in the world. 
 > This is how a monk remains focused on mental qualities in & of themselves with reference to the seven factors of awakening.
 
+> [๒๙๔] ดูกรภิกษุทั้งหลาย อีกข้อหนึ่ง ภิกษุพิจารณาเห็นธรรมในธรรมคืออริยสัจ ๔ อยู่ 
+> ภิกษุพิจารณาเห็นธรรมในธรรมคืออริยสัจ ๔ อยู่ อย่างไรเล่า
+> ภิกษุในธรรมวินัยนี้ ย่อมรู้ชัดตามเป็นจริงว่า นี้ทุกข์ นี้ทุกขสมุทัย นี้ทุกขนิโรธ นี้ทุกขนิโรธคามินีปฏิปทา ฯ
+> ดูกรภิกษุทั้งหลาย ก็ทุกขอริยสัจเป็นไฉน แม้ชาติก็เป็นทุกข์ แม้ชราก็เป็นทุกข์ แม้มรณะก็เป็นทุกข์ แม้โสกะ ปริเทวะทุกข์โทมนัสอุปายาส ก็เป็นทุกข์ 
+> แม้ความประจวบกับสิ่งไม่เป็นที่รักก็เป็นทุกข์ แม้ความพลัดพรากจากสิ่งที่รักก็เป็นทุกข์ ปรารถนาสิ่งใดไม่ได้ แม้อันนั้นก็เป็นทุกข์ โดยย่อ อุปาทานขันธ์ทั้ง ๕ เป็นทุกข์ ฯ
 
+> Furthermore, the monk remains focused on mental qualities in & of themselves with reference to the four noble truths. 
+> And how does he remain focused on mental qualities in & of themselves with reference to the four noble truths? 
+> There is the case where he discerns, as it is actually present, that 'This is stress... This is the origination of stress... This is the cessation of stress... This is the way leading to the cessation of stress.'
+> 
 
 ## 10/348/299
 
