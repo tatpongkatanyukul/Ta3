@@ -19,6 +19,7 @@
 มีสติ กำจัดอภิชฌาและโทมนัสในโลกเสียได้ ๑ ฯ
 
 ### [English version DN22](https://accesstoinsight.org/tipitaka/dn/dn.22.0.than.html)
+(alternative [English version](http://www.buddha-vacana.org/sutta/digha/dn22.html))
 
 I have heard that on one occasion the Blessed One was staying in the Kuru country. Now there is a town of the Kurus called Kammasadhamma. There the Blessed One addressed the monks, "Monks."
 
