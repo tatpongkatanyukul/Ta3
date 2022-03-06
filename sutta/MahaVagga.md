@@ -373,9 +373,117 @@ The Blessed One said this: "This is the direct path for the purification of bein
 > That is where this craving, when arising, arises. That is where, when dwelling, it dwells.
 > This is called the noble truth of the origination of stress.
 
+> [๒๙๘] ดูกรภิกษุทั้งหลาย ก็ทุกขนิโรธอริยสัจเป็นไฉน 
+> ความสำรอกและความดับโดยไม่เหลือ ความสละ ความส่งคืน ความปล่อยวาง ความไม่มีอาลัย 
+> ในตัณหานั้น ก็ตัณหานั้น เมื่อบุคคลจะละ ย่อมละเสียได้ในที่ไหน
+> เมื่อจะดับ ย่อมดับในที่ไหน 
+> ที่ใดเป็นที่รักที่เจริญใจในโลก ตัณหานั้น เมื่อบุคคลจะละ ย่อมละเสียได้ในที่นี้ เมื่อจะดับย่อมดับในที่นี้ 
+> อะไรเป็นที่รักที่เจริญใจในโลก ฯ
+> ตา หู จมูก ลิ้น กาย ใจ เป็นที่รักที่เจริญใจในโลก ตัณหา เมื่อบุคคลจะละ ย่อมละเสียได้ในที่นี้ เมื่อจะดับย่อมดับในที่นี้ 
+> รูปเสียง กลิ่น รส โผฏฐัพพะ ธรรมารมณ์ เป็นที่รักที่เจริญใจในโลก ตัณหา เมื่อบุคคลจะละ ย่อมละเสียได้ในที่นี้ เมื่อจะดับย่อมดับในที่นี้ ฯ
+> จักขุวิญญาณ โสตวิญญาณ ฆานวิญญาณ ชิวหาวิญญาณ กายวิญญาณ มโนวิญญาณ เป็นที่รักที่เจริญใจในโลก ตัณหา เมื่อบุคคลจะละ ย่อมละเสีย ได้ในที่นี้ เมื่อจะดับ ย่อมดับในที่นี้ ฯ 
+> จักขุสัมผัส โสตสัมผัส ฆานสัมผัส ชิวหาสัมผัส กายสัมผัส มโนสัมผัส เป็นที่รักที่เจริญใจในโลก ตัณหา เมื่อบุคคลจะละ ย่อมละเสียได้ในที่นี้เมื่อจะดับ ย่อมดับในที่นี้ ฯ
+> จักขุสัมผัสสชาเวทนา โสตสัมผัสสชาเวทนา ฆานสัมผัสสชาเวทนา ชิวหาสัมผัสสชาเวทนา กายสัมผัสสชาเวทนา มโนสัมผัสสชาเวทนา เป็นที่รัก ที่เจริญใจในโลก ตัณหา เมื่อบุคคลจะละ ย่อมละเสียได้ในที่นี้ เมื่อจะดับ ย่อมดับในที่นี้ ฯ
+> รูปสัญญา สัททสัญญา คันธสัญญา รสสัญญา โผฏฐัพพสัญญา ธัมมสัญญา เป็นที่รักที่เจริญใจในโลก ตัณหา เมื่อบุคคลจะละ ย่อมละเสียได้ในที่นี้ เมื่อจะดับ ย่อมดับในที่นี้ ฯ
+> รูปสัญเจตนา สัททสัญเจตนา คันธสัญเจตนา รสสัญเจตนา โผฏฐัพพสัญเจตนา ธัมมสัญเจตนา เป็นที่รักที่เจริญใจในโลก ตัณหา เมื่อบุคคลจะละ ย่อมละเสียได้ในที่นี้ เมื่อจะดับ ย่อมดับในที่นี้ ฯ
+> รูปตัณหา สัททตัณหา คันธตัณหา รสตัณหา โผฏฐัพพตัณหา ธัมมตัณหา เป็นที่รักที่เจริญใจในโลก ตัณหา เมื่อบุคคลจะละ ย่อมละเสียได้ในที่นี้ เมื่อจะดับ ย่อมดับในที่นี้ ฯ
+> รูปวิตก สัททวิตก คันธวิตก รสวิตก โผฏฐัพพวิตก ธัมมวิตก เป็นที่รักที่เจริญใจในโลก ตัณหา เมื่อบุคคลจะละ ย่อมละเสียได้ในที่นี้ เมื่อจะดับ ย่อมดับในที่นี้ ฯ
+> รูปวิจาร สัททวิจาร คันธวิจาร รสวิจาร โผฏฐัพพวิจาร ธัมมวิจาร เป็นที่รักที่เจริญใจในโลก ตัณหา เมื่อบุคคลจะละ ย่อมละเสียได้ในที่นี้ เมื่อจะดับ ย่อมดับในที่นี้ ฯ
+> ดูกรภิกษุทั้งหลาย อันนี้เรียกว่า ทุกขนิโรธอริยสัจ ฯ
 
+> And what is the noble truth of the cessation of stress? 
+> The remainderless fading & cessation, renunciation, relinquishment, release, & letting go of that very craving.
+> And where, when being abandoned, is this craving abandoned? And where, when ceasing, does it cease
+> Whatever is endearing & alluring in terms of the world: that is where, when being abandoned, this craving is abandoned. That is where, when ceasing, it ceases.
+> And what is endearing & alluring in terms of the world? 
+> The eye is endearing & alluring in terms of the world. 
+> That is where, when being abandoned, this craving is abandoned. 
+> That is where, when ceasing, it ceases.
+> The ear... The nose... The tongue... The body... The intellect...
+> Forms... Sounds... Smells... Tastes... Tactile sensations... Ideas...
+> Eye-consciousness... Ear-consciousness... Nose-consciousness... Tongue-consciousness... Body-consciousness... Intellect-consciousness...
+> Eye-contact... Ear-contact... Nose-contact... Tongue-contact... Body-contact... Intellect-contact...
+> Feeling born of eye-contact... Feeling born of ear-contact... Feeling born of nose-contact... Feeling born of tongue-contact... Feeling born of body-contact... Feeling born of intellect-contact...
+> Perception of forms... Perception of sounds... Perception of smells... Perception of tastes... Perception of tactile sensations... Perception of ideas...
+> Intention for forms... Intention for sounds... Intention for smells... Intention for tastes... Intention for tactile sensations... Intention for ideas...
+> Craving for forms... Craving for sounds... Craving for smells... Craving for tastes... Craving for tactile sensations... Craving for ideas...
+> Thought directed at forms... Thought directed at sounds... Thought directed at smells... Thought directed at tastes... Thought directed at tactile sensations... Thought directed at ideas...
+> Evaluation of forms... Evaluation of sounds... Evaluation of smells... Evaluation of tastes... Evaluation of tactile sensations... Evaluation of ideas is endearing & alluring in terms of the world. That is where, when being abandoned, this craving is abandoned. That is where, when ceasing, it ceases.
+> This is called the noble truth of the cessation of stress.
 
 ## 10/348/299
+
+> [๒๙๙] ดูกรภิกษุทั้งหลาย ก็ทุกขนิโรธคามินีปฏิปทาอริยสัจเป็นไฉน
+> นี้คือมรรคมีองค์ ๘ อันประเสริฐ คือ สัมมาทิฏฐิ สัมมาสังกัปปะ สัมมาวาจา สัมมากัมมันตะ สัมมาอาชีวะ สัมมาวายามะ สัมมาสติ สัมมาสมาธิ
+> ก็สัมมาทิฏฐิเป็นไฉน 
+> ความรู้ในทุกข์ ความรู้ในทุกขสมุทัย ความรู้ในทุกขนิโรธ ความรู้ในทุกขนิโรธคามินีปฏิปทา อันนี้เรียกว่า สัมมาทิฏฐิ ฯ
+> สัมมาสังกัปปะ เป็นไฉน 
+> ความดำริในการออกจากกาม ความดำริในความไม่พยาบาท ความดำริในอันไม่เบียดเบียน อันนี้เรียกว่า สัมมาสังกัปปะ ฯ
+> สัมมาวาจา เป็นไฉน 
+> การงดเว้นจากการพูดเท็จ งดเว้นจากการพูดส่อเสียด งดเว้นจากการพูดคำหยาบ งดเว้นจากการพูดเพ้อเจ้อ อันนี้เรียกว่าสัมมาวาจา ฯ
+> สัมมากัมมันตะ เป็นไฉน 
+> การงดเว้นจากการฆ่าสัตว์ งดเว้นจากการถือ เอาสิ่งของที่เขามิได้ให้ งดเว้นจากการประพฤติผิดในกาม อันนี้เรียกว่า สัมมากัมมันตะ ฯ
+> สัมมาอาชีวะ เป็นไฉน 
+> อริยสาวกในธรรมวินัยนี้ ละการเลี้ยงชีพที่ผิดเสีย สำเร็จการเลี้ยงชีพด้วยการเลี้ยงชีพที่ชอบ อันนี้เรียกว่า สัมมาอาชีวะ ฯ
+> สัมมาวายามะ เป็นไฉน 
+> ภิกษุในธรรมวินัยนี้ เกิดฉันทะพยายาม ปรารภความเพียร ประคองจิตไว้ ตั้งจิตไว้ เพื่อมิให้อกุศลธรรมอันลามกที่ยังไม่เกิดบังเกิดขึ้น เพื่อละอกุศลธรรมอันลามกที่บังเกิดขึ้นแล้ว เพื่อให้กุศลธรรมที่ยังไม่เกิดบังเกิดขึ้น เพื่อความตั้งอยู่ไม่เลือนหาย เจริญยิ่ง ไพบูลย์ มีขึ้น เต็มเปี่ยมแห่งกุศลธรรมที่บังเกิดขึ้นแล้ว อันนี้เรียกว่า สัมมาวายามะ ฯ
+> สัมมาสติ เป็นไฉน 
+> ภิกษุในธรรมวินัยนี้ พิจารณาเห็นกายในกายอยู่ มีความเพียร มีสัมปชัญญะ มีสติ กำจัดอภิชฌา และโทมนัสในโลกเสียได้ พิจารณาเห็นเวทนาในเวทนาอยู่ ฯลฯ พิจารณาเห็นจิตในจิตอยู่ ฯลฯ พิจารณาเห็นธรรมในธรรมอยู่ มีความเพียร มีสัมปชัญญะ มีสติ กำจัดอภิชฌาและโทมนัสในโลกเสียได้ อันนี้เรียกว่า สัมมาสติ ฯ
+> สัมมาสมาธิ เป็นไฉน 
+> ภิกษุในธรรมวินัยนี้ สงัดจากกาม สงัดจากอกุศลธรรม บรรลุปฐมฌาน มีวิตก มีวิจาร มีปีติและสุขเกิดแต่วิเวกอยู่
+> เธอบรรลุทุติยฌาน มีความผ่องใสแห่งจิตในภายใน เป็นธรรมเอกผุดขึ้น 
+> เพราะวิตกวิจารสงบไป ไม่มีวิตก ไม่มีวิจาร มีปีติและสุขอันเกิดแต่สมาธิอยู่ 
+> เธอมีอุเบกขา มีสติ มีสัมปชัญญะ เสวยสุขด้วยกาย เพราะปีติสิ้นไป บรรลุตติยฌาน ที่พระอริยทั้งหลาย สรรเสริญว่า ผู้ได้ฌานนี้ เป็นผู้มีอุเบกขา มีสติอยู่เป็นสุข
+> เธอบรรลุจตุตถฌาน ไม่มีทุกข์ไม่มีสุข เพราะละสุขละทุกข์ และดับโสมนัส โทมนัสก่อน ๆ ได้ มีอุเบกขาเป็นเหตุให้สติบริสุทธิ์อยู่ อันนี้เรียกว่า สัมมาสมาธิ ฯ
+> ดูกรภิกษุทั้งหลาย อันนี้เรียกว่า ทุกขนิโรธคามินีปฏิปทาอริยสัจ ฯ
+> ดังพรรณนามาฉะนี้ ภิกษุย่อมพิจารณาเห็นธรรมในธรรมภายในบ้าง 
+> พิจารณาเห็นธรรมในธรรมภายนอกบ้าง 
+> พิจารณาเห็นธรรมในธรรมทั้งภายในภายนอกบ้าง 
+> พิจารณาเห็นธรรมคือความเกิดขึ้นในธรรมบ้าง 
+> พิจารณาเห็นธรรมคือเสื่อมในธรรมบ้าง 
+> พิจารณาเห็นธรรมคือทั้งความเกิดขึ้นทั้งความเสื่อมในธรรมบ้าง ย่อมอยู่ อีกอย่างหนึ่ง 
+> สติของเธอที่ตั้งมั่นอยู่ว่า ธรรมมีอยู่ ก็เพียงสักว่าความรู้
+> เพียงสักว่าอาศัยระลึกเท่านั้น เธอเป็นผู้อันตัณหาและทิฐิไม่อาศัยอยู่แล้ว และไม่ถือมั่นอะไรๆ ในโลก 
+> ดูกรภิกษุทั้งหลาย อย่างนี้แล ภิกษุชื่อว่าพิจารณาเห็นธรรมในธรรมอยู่ ฯ
+
+> And what is the noble truth of the path of practice leading to the cessation of stress? 
+> Just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
+> And what is right view? 
+> Knowledge with regard to stress, knowledge with regard to the origination of stress, knowledge with regard to the cessation of stress, knowledge with regard to the way of practice leading to the cessation of stress: This is called right view.
+> And what is right resolve? 
+> Aspiring to renunciation, to freedom from ill will, to harmlessness: This is called right resolve.
+> And what is right speech? 
+> Abstaining from lying, from divisive speech, from abusive speech, & from idle chatter: This is called right speech.
+> And what is right action? Abstaining from taking life, from stealing, & from sexual intercourse. This is called right action.
+> And what is right livelihood? There is the case where a noble disciple, having abandoned dishonest livelihood, keeps his life going with right livelihood: This is called right livelihood.
+> And what is right effort? 
+> There is the case where a monk generates desire, endeavors, arouses persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen... 
+> for the sake of the abandoning of evil, unskillful qualities that have arisen... 
+> for the sake of the arising of skillful qualities that have not yet arisen... 
+> (and) for the maintenance, non-confusion, increase, plenitude, development, & culmination of skillful qualities that have arisen: This is called right effort.
+> And what is right mindfulness? 
+> There is the case where a monk remains focused on the body in & of itself -- ardent, alert, & mindful -- putting aside greed & distress with reference to the world. 
+> He remains focused on feelings in & of themselves... 
+> the mind in & of itself... 
+> mental qualities in & of themselves -- ardent, alert, & mindful -- putting aside greed & distress with reference to the world. 
+> This is called right mindfulness.
+> And what is right concentration? 
+> There is the case where a monk -- quite withdrawn from sensuality, withdrawn from unskillful (mental) qualities -- enters & remains in the first jhana: rapture & pleasure born from withdrawal, accompanied by directed thought & evaluation. 
+> With the stilling of directed thought & evaluation, he enters & remains in the second jhana: rapture & pleasure born of composure, unification of awareness free from directed thought & evaluation -- internal assurance. 
+> With the fading of rapture he remains in equanimity, mindful & alert, physically sensitive of pleasure.
+> He enters & remains in the third jhana, of which the Noble Ones declare, 'Equanimous & mindful, he has a pleasurable abiding.' 
+> With the abandoning of pleasure & pain -- as with the earlier disappearance of elation & distress -- he enters & remains in the fourth jhana: purity of equanimity & mindfulness, neither pleasure nor pain. 
+> This is called right concentration.
+> This is called the noble truth of the path of practice leading to the cessation of stress.
+> In this way he remains focused internally on mental qualities in & of themselves, 
+> or externally on mental qualities in & of themselves, 
+> or both internally & externally on mental qualities in & of themselves. 
+> Or he remains focused on the phenomenon of origination with regard to mental qualities, 
+> on the phenomenon of passing away with regard to mental qualities, 
+> or on the phenomenon of origination & passing away with regard to mental qualities. 
+> Or his mindfulness that 'There are mental qualities' is maintained to the extent of knowledge & remembrance. 
+> And he remains independent, unsustained by (not clinging to) anything in the world. 
+> This is how a monk remains focused on mental qualities in & of themselves with reference to the four noble truths...
 
 พุทธวจน
 > ภิกษุทั้งหลาย ก็อริยสัจคือหนทางเป็นเครื่องให้ถึงความดบไม่เหลือแห่งทุกข์นั้น เป็นอย่างไรเล่า
