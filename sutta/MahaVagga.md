@@ -82,7 +82,158 @@ The Blessed One said this: "This is the direct path for the purification of bein
 > This is how a monk remains focused on the body in & of itself.
 
 
+> [๒๗๕] ดูกรภิกษุทั้งหลาย อีกข้อหนึ่ง ภิกษุเมื่อเดิน ก็รู้ชัดว่าเราเดิน
+> เมื่อยืน ก็รู้ชัดว่าเรายืน เมื่อนั่ง ก็รู้ชัดว่าเรานั่ง เมื่อนอนก็รู้ชัดว่าเรานอน 
+> หรือเธอตั้งกายไว้ด้วยอาการอย่างใดๆ ก็รู้ชัดอาการอย่างนั้นๆ 
+> ดังพรรณนามาฉะนี้ ภิกษุย่อมพิจารณาเห็นกายในกายภายในบ้าง 
+> พิจารณาเห็นกายในกายภายนอกบ้าง
+> พิจารณาเห็นกายในกายทั้งภายในทั้งภายนอกบ้าง 
+> พิจารณาเห็นธรรม คือความเกิดขึ้นในกายบ้าง 
+> พิจารณาเห็นธรรม คือความเสื่อมในกายบ้าง 
+> พิจารณาเห็นธรรม คือทั้งความเกิดขึ้นทั้งความเสื่อมในกายบ้าง ย่อมอยู่ อีกอย่างหนึ่ง 
+> สติของเธอที่ตั้งมั่นอยู่ว่า กายมีอยู่ ก็เพียงสักว่าความรู้ เพียงสักว่าอาศัยระลึกเท่านั้น 
+> เธอเป็นผู้อันตัณหาและทิฐิไม่อาศัยอยู่แล้ว และไม่ถือมั่นอะไร ๆ ในโลก 
+> ดูกรภิกษุทั้งหลายอย่างนี้แล ภิกษุชื่อว่าพิจารณาเห็นกายในกายอยู่ ฯ
 
+> [2] "Furthermore, when walking, the monk discerns that he is walking. When standing, he discerns that he is standing. When sitting, he discerns that he is sitting. When lying down, he discerns that he is lying down. Or however his body is disposed, that is how he discerns it.
+> "In this way he remains focused internally on the body in & of itself, or focused externally... unsustained by anything in the world. This is how a monk remains focused on the body in & of itself.
+
+> [๒๘๘] ดูกรภิกษุทั้งหลาย ภิกษุพิจารณาเห็นเวทนาในเวทนาอยู่อย่างไรเล่า 
+> ภิกษุในธรรมวินัยนี้ เสวยสุขเวทนาอยู่ ก็รู้ชัดว่า เราเสวยสุขเวทนา 
+> หรือเสวยทุกขเวทนา ก็รู้ชัดว่า เราเสวยทุกขเวทนา 
+> หรือ เสวยอทุกขมสุขเวทนา ก็รู้ชัดว่า เราเสวยอทุกขมสุขเวทนา 
+> หรือ เสวยสุขเวทนามีอามิส ก็รู้ชัดว่า เราเสวยสุขเวทนามีอามิส 
+> หรือ เสวยสุขเวทนาไม่มีอามิส ก็รู้ชัดว่า เราเสวยสุขเวทนาไม่มีอามิส 
+> หรือเสวยทุกขเวทนามีอามิส ก็รู้ชัดว่า เราเสวยทุกขเวทนามีอามิส 
+> หรือ เสวยทุกขเวทนาไม่มีอามิส ก็รู้ชัดว่า เราเสวยทุกขเวทนาไม่มีอามิส
+> หรือ เสวยอทุกขมสุขเวทนามีอามิส ก็รู้ชัดว่า เราเสวยอทุกขมสุขเวทนามีอามิส
+> หรือ เสวยอทุกขมสุขเวทนาไม่มีอามิส ก็รู้ชัดว่า เราเสวยอทุกขมสุขเวทนาไม่มีอามิส 
+> ดังพรรณนามาฉะนี้ ภิกษุย่อมพิจารณาเห็นเวทนาในเวทนาภายในบ้าง
+> พิจารณาเห็นเวทนาในเวทนาภายนอกบ้าง 
+> พิจารณาเห็นเวทนาในเวทนาทั้งภายในทั้งภายนอกบ้าง 
+> พิจารณาเห็นธรรมคือความเกิดขึ้นในเวทนาบ้าง 
+> พิจารณาเห็นธรรมคือความเสื่อมในเวทนาบ้าง 
+> พิจารณาเห็นธรรมคือทั้งความเกิดขึ้นทั้งความเสื่อมในเวทนาบ้าง อีกอย่างหนึ่ง 
+> สติของเธอที่ตั้งมั่นอยู่ว่า เวทนามีอยู่ ก็เพียงสักว่าความรู้ เพียงสักว่าอาศัยระลึกเท่านั้น 
+> เธอเป็นผู้อันตัณหาและทิฐิไม่อาศัยอยู่แล้ว 
+> และไม่ถือมั่นอะไรๆ ในโลก ดูกรภิกษุทั้งหลาย อย่างนี้แล ภิกษุชื่อว่าพิจารณาเห็นเวทนาในเวทนาอยู่ ฯ
+
+> And how does a monk remain focused on feelings in & of themselves? 
+> There is the case where a monk, when feeling a painful feeling, discerns that he is feeling a painful feeling. 
+> When feeling a pleasant feeling, he discerns that he is feeling a pleasant feeling. 
+> When feeling a neither-painful-nor-pleasant feeling, he discerns that he is feeling a neither-painful-nor-pleasant feeling.
+> When feeling a painful feeling of the flesh, he discerns that he is feeling a painful feeling of the flesh. 
+> When feeling a painful feeling not of the flesh, he discerns that he is feeling a painful feeling not of the flesh. 
+> When feeling a pleasant feeling of the flesh, he discerns that he is feeling a pleasant feeling of the flesh. 
+> When feeling a pleasant feeling not of the flesh, he discerns that he is feeling a pleasant feeling not of the flesh. 
+> When feeling a neither-painful-nor-pleasant feeling of the flesh, he discerns that he is feeling a neither-painful-nor-pleasant feeling of the flesh. 
+> When feeling a neither-painful-nor-pleasant feeling not of the flesh, he discerns that he is feeling a neither-painful-nor-pleasant feeling not of the flesh.
+> In this way he remains focused internally on feelings in & of themselves, or externally on feelings in & of themselves, or both internally & externally on feelings in & of themselves. 
+> Or he remains focused on the phenomenon of origination with regard to feelings, 
+> on the phenomenon of passing away with regard to feelings, 
+> or on the phenomenon of origination & passing away with regard to feelings. 
+> Or his mindfulness that 'There are feelings' is maintained to the extent of knowledge & remembrance.
+> And he remains independent, unsustained by (not clinging to) anything in the world. This is how a monk remains focused on feelings in & of themselves.
+
+> [๒๘๙] ดูกรภิกษุทั้งหลาย ภิกษุพิจารณาเห็นจิตในจิตอยู่อย่างไรเล่า
+> ภิกษุในธรรมวินัยนี้ จิตมีราคะ ก็รู้ว่าจิตมีราคะ 
+> หรือจิตปราศจากราคะ ก็รู้ว่าจิตปราศจากราคะ 
+> จิตมีโทสะ ก็รู้ว่าจิตมีโทสะ หรือจิตปราศจากโทสะ ก็รู้ว่าจิตปราศจากโทสะ 
+> จิตมีโมหะ ก็รู้ว่าจิตมีโมหะ หรือจิตปราศจากโมหะ ก็รู้ว่าจิตปราศจากโมหะ 
+> จิตหดหู่ ก็รู้ว่าจิตหดหู่ จิตฟุ้งซ่าน ก็รู้ว่าจิตฟุ้งซ่าน 
+> จิตเป็นมหรคต ก็รู้ว่าจิตเป็นมหรคต หรือจิตไม่เป็นมหรคต ก็รู้ว่าจิตไม่เป็นมหรคต 
+> จิตมีจิตอื่นยิ่งกว่า ก็รู้ว่าจิตมีจิตอื่นยิ่งกว่า หรือจิตไม่มีจิตอื่นยิ่งกว่า ก็รู้ว่าจิตไม่มีจิตอื่นยิ่งกว่า 
+> จิตเป็นสมาธิ ก็รู้ว่าจิตเป็นสมาธิ หรือจิตไม่เป็นสมาธิ ก็รู้ว่าจิตไม่เป็นสมาธิ 
+> จิตหลุดพ้น ก็รู้ว่าจิตหลุดพ้น หรือจิตไม่หลุดพ้น ก็รู้ว่าจิตไม่หลุดพ้น 
+> ดังพรรณนามาฉะนี้ ภิกษุย่อมพิจารณาเห็นจิตในจิตภายในบ้าง 
+> พิจารณาเห็นจิตในจิตภายนอกบ้าง พิจารณาเห็นจิตในจิตทั้งภายในทั้งภายนอกบ้าง 
+> พิจารณาเห็นธรรมคือความเกิดขึ้นในจิตบ้าง พิจารณาเห็นธรรมคือความเสื่อมในจิตบ้าง
+> พิจารณาเห็นธรรมคือทั้งความเกิดขึ้นทั้งความเสื่อมในจิตบ้าง ย่อมอยู่ อีกอย่างหนึ่ง 
+> สติของเธอที่ตั้งมั่นอยู่ว่า จิตมีอยู่ ก็เพียงสักว่าความรู้ เพียงสักว่าอาศัยระลึกเท่านั้น 
+> เธอเป็นผู้อันตัณหาและทิฐิไม่อาศัยอยู่แล้ว และไม่ถือมั่นอะไร ๆ ในโลก ดูกรภิกษุทั้งหลาย อย่างนี้แล ภิกษุชื่อว่าพิจารณาเห็นจิตในจิตอยู่ ฯ
+
+> And how does a monk remain focused on the mind in & of itself? 
+> There is the case where a monk, when the mind has passion, discerns that the mind has passion. 
+> When the mind is without passion, he discerns that the mind is without passion. 
+> When the mind has aversion, he discerns that the mind has aversion. 
+> When the mind is without aversion, he discerns that the mind is without aversion. 
+> When the mind has delusion, he discerns that the mind has delusion. 
+> When the mind is without delusion, he discerns that the mind is without delusion.
+> When the mind is restricted, he discerns that the mind is restricted. 
+> When the mind is scattered, he discerns that the mind is scattered. 
+> When the mind is enlarged, he discerns that the mind is enlarged. 
+> When the mind is not enlarged, he discerns that the mind is not enlarged. 
+> When the mind is surpassed, he discerns that the mind is surpassed. 
+> When the mind is unsurpassed, he discerns that the mind is unsurpassed. 
+> When the mind is concentrated, he discerns that the mind is concentrated. 
+> When the mind is not concentrated, he discerns that the mind is not concentrated. 
+> When the mind is released, he discerns that the mind is released. 
+> When the mind is not released, he discerns that the mind is not released.
+> In this way he remains focused internally on the mind in & of itself, 
+> or externally on the mind in & of itself, 
+> or both internally & externally on the mind in & of itself. 
+> Or he remains focused on the phenomenon of origination with regard to the mind, 
+> on the phenomenon of passing away with regard to the mind, 
+> or on the phenomenon of origination & passing away with regard to the mind. 
+> Or his mindfulness that 'There is a mind' is maintained to the extent of knowledge & remembrance. 
+> And he remains independent, unsustained by (not clinging to) anything in the world.
+> This is how a monk remains focused on the mind in & of itself.
+
+> [๒๙๐] ดูกรภิกษุทั้งหลาย ภิกษุพิจารณาเห็นธรรมในธรรมอยู่ อย่างไรเล่า 
+> ภิกษุในธรรมวินัยนี้ พิจารณาเห็นธรรมในธรรม คือนิวรณ์ ๕ 
+> ภิกษุพิจารณาเห็นธรรมในธรรมคือนิวรณ์ ๕ อย่างไรเล่า 
+> ภิกษุในธรรมวินัยนี้ เมื่อกามฉันท์มีอยู่ ณ ภายในจิต ย่อมรู้ชัดว่า กามฉันท์มีอยู่ ณ ภายในจิตของเรา 
+> หรือเมื่กามฉันท์ไม่มีอยู่ ณ ภายในจิต ย่อมรู้ชัดว่า กามฉันท์ไม่มีอยู่ ณ ภายในจิตของเรา 
+> อนึ่ง กามฉันท์ที่ยังไม่เกิดจะเกิดขึ้นด้วยประการใด ย่อมรู้ชัดประการนั้น
+> ด้วย กามฉันท์ที่เกิดขึ้นแล้วจะละเสียได้ด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย
+> กามฉันท์ที่ละได้แล้วจะไม่เกิดขึ้นต่อไปด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย
+> อีกอย่างหนึ่ง เมื่อพยาบาทมีอยู่ ณ ภายในจิต ย่อมรู้ชัดว่า พยาบาทมีอยู่ ณ ภายในจิตของเรา 
+> หรือเมื่อพยาบาทไม่มีอยู่ ณ ภายในจิต ย่อมรู้ชัดว่า พยาบาทไม่มีอยู่ ณ ภายในจิตของเรา 
+> อนึ่ง พยาบาทที่ยังไม่เกิดจะเกิดขึ้นด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย 
+> พยาบาทที่เกิดขึ้นแล้วจะละเสียได้ด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย 
+> พยาบาทที่ละได้แล้วจะไม่เกิดขึ้นต่อไปด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย 
+> อีกอย่างหนึ่ง เมื่อถีนมิทธะมีอยู่ ณ ภายในจิต ย่อมรู้ชัดว่าถีนมิทธะมีอยู่ ณ ภายในจิตของเรา 
+> หรือเมื่อถีนมิทธะไม่มีอยู่ ณ ภายในจิตย่อมรู้ชัดว่า ถีนมิทธะไม่มีอยู่ ณ ภายในจิตของเรา 
+> อนึ่ง ถีนมิทธะที่ยังไม่เกิด จะเกิดขึ้นด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย 
+> ถีนมิทธะที่เกิดขึ้นแล้ว จะละเสียได้ด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย 
+> ถีนมิทธะที่ละได้แล้ว จะไม่เกิดขึ้นต่อไปด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย อีกอย่างหนึ่ง 
+> เมื่ออุทธัจจกุกกุจจะมีอยู่ ณ ภายในจิต ย่อมรู้ชัดว่า อุทธัจจกุกกุจจะมีอยู่ ณ ภายในจิตของเรา 
+> หรือเมื่ออุทธัจจกุกกุจจะไม่มีอยู่ ณ ภายในจิต ย่อมรู้ชัดว่า อุทธัจจกุกกุจจะไม่มีอยู่ ณ ภายในจิตของเรา 
+> อนึ่ง อุทธัจจกุกกุจจะที่ยังไม่เกิดจะเกิดขึ้นด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย 
+> อุทธัจจกุกกุจจะที่เกิดขึ้นแล้ว จะละเสียได้ด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย 
+> อุทธัจจกุกกุจจะที่ละได้แล้ว จะไม่เกิดขึ้นต่อไปด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย อีกอย่างหนึ่ง 
+> เมื่อวิจิกิจฉามีอยู่ ณ ภายในจิต ย่อมรู้ชัดว่า วิจิกิจฉามีอยู่ ณ ภายในจิตของเรา
+> หรือเมื่อวิจิกิจฉาไม่มีอยู่ ณ ภายในจิต ย่อมรู้ชัดว่า วิจิกิจฉาไม่มีอยู่ ณ ภายในจิตของเรา 
+> อนึ่ง วิจิกิจฉาที่ยังไม่เกิดจะเกิดขึ้นด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย 
+> วิจิกิจฉาที่เกิดขึ้นแล้ว จะละเสียได้ด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย
+> วิจิกิจฉาที่ละได้แล้ว จะไม่เกิดขึ้นต่อไปด้วยประการใด ย่อมรู้ชัดประการนั้นด้วย
+> ดังพรรณนามาฉะนี้ ภิกษุย่อมพิจารณาเห็นธรรมในธรรมภายในบ้าง 
+> พิจารณาเห็นธรรมในธรรมภายนอกบ้าง 
+> พิจารณาเห็นธรรมในธรรมทั้งภายในทั้งภายนอกบ้าง
+> พิจารณาเห็นธรรมคือความเกิดขึ้นในธรรมบ้าง 
+> พิจารณาเห็นธรรมคือความเสื่อมในธรรมบ้าง 
+> พิจารณาเห็นธรรมคือทั้งความเกิดขึ้นทั้งความเสื่อมในธรรมบ้าง ย่อมอยู่อีกอย่างหนึ่ง 
+> สติของเธอที่ตั้งมั่นอยู่ว่า ธรรมมีอยู่ ก็เพียงสักว่าความรู้ เพียงสักว่าอาศัยระลึกเท่านั้น 
+> เธอเป็นผู้อันตัณหาและทิฐิไม่อาศัยอยู่แล้ว และไม่ถือมั่นอะไร ๆ ในโลก 
+> ดูกรภิกษุทั้งหลาย อย่างนี้แล ภิกษุชื่อว่าพิจารณาเห็นธรรมในธรรม คือนิวรณ์ ๕ อยู่ ฯ
+
+> And how does a monk remain focused on mental qualities in & of themselves?
+> [1] "There is the case where a monk remains focused on mental qualities in & of themselves with reference to the five hindrances. 
+> And how does a monk remain focused on mental qualities in & of themselves with reference to the five hindrances? 
+> There is the case where, there being sensual desire present within, a monk discerns that 'There is sensual desire present within me.'
+> Or, there being no sensual desire present within, he discerns that 'There is no sensual desire present within me.' 
+> He discerns how there is the arising of unarisen sensual desire. 
+> And he discerns how there is the abandoning of sensual desire once it has arisen. 
+> And he discerns how there is no further appearance in the future of sensual desire that has been abandoned. 
+> (The same formula is repeated for the remaining hindrances: ill will, sloth & drowsiness, restlessness & anxiety, and uncertainty.)
+> In this way he remains focused internally on mental qualities in & of themselves, 
+> or externally on mental qualities in & of themselves, 
+> or both internally & externally on mental qualities in & of themselves. 
+> Or he remains focused on the phenomenon of origination with regard to mental qualities, 
+> on the phenomenon of passing away with regard to mental qualities, 
+> or on the phenomenon of origination & passing away with regard to mental qualities. 
+> Or his mindfulness that 'There are mental qualities' is maintained to the extent of knowledge & remembrance. 
+> And he remains independent, unsustained by (not clinging to) anything in the world. This is how a monk remains focused on mental qualities in & of themselves with reference to the five hindrances.
 
 ## 10/348/299
 
