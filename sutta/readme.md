@@ -1,7 +1,7 @@
 # Sutta
 
-| อักษรย่อ   | บท                              | ปิฏก    | [Access to Insight](https://www.accesstoinsight.org/tipitaka/) | Tipitaka |
-|----------|----------------------------------|--------|--------|--------|
+| อักษรย่อ   | บท                              | ปิฏก    | [Access to Insight](https://www.accesstoinsight.org/tipitaka/) | Tipitaka | Chapter |
+|----------|----------------------------------|--------|--------|--------|--------|
 | มหาวิ. วิ. | มหาวิภังค์                          | วินัยปิฏก | Vin    | Vinaya Pitaka |
 | ภิกขุนี. วิ. | ภิกขุนีวิภังค์                         | วินัยปิฏก | Vin    | Vinaya Pitaka |
 | มหา. วิ. | มหาวรรค                         | วินัยปิฏก | Vin    | Vinaya Pitaka |
@@ -29,21 +29,21 @@
 | นวก. อํ. | นวกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya |
 | ทสก. อํ. | ทสกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya |
 | เอกาทสก. อํ. | เอกทสกนิบาต                         | อังคุตตรนิกาย | An | Anguttara Nikaya |
-| ขุ. ขุ. | ขุททกปาฐะ                         | ขุททกนิกาย | Kn | Khuddaka Nikaya |
-| ธ. ขุ. | ขุททกปาฐะ                         | ธรรมบท | Kn | Khuddaka Nikaya |
-| อุ. ขุ. | ขุททกปาฐะ                         | อุทาน | Kn | Khuddaka Nikaya |
-| อิติวุ. ขุ. | ขุททกปาฐะ                         | อิติวุตตกะ | Kn | Khuddaka Nikaya |
-| สุตฺต. ขุ. | ขุททกปาฐะ                         | สุตตนิบาต | Kn | Khuddaka Nikaya |
-| วิมาน. ขุ. | ขุททกปาฐะ                         | วิมานวัตถุ | Kn | Khuddaka Nikaya |
-| เปต. ขุ. | ขุททกปาฐะ                         | เปตวัตถุ | Kn | Khuddaka Nikaya |
-| เถร. ขุ. | ขุททกปาฐะ                         | เถรคาถา | Kn | Khuddaka Nikaya |
-| เถรี. ขุ. | ขุททกปาฐะ                         | เถรีคาถา | Kn | Khuddaka Nikaya |
-| ชา. ขุ. | ขุททกปาฐะ                         | ชาดก | Kn | Khuddaka Nikaya |
-| มหานิ. ขุ. | ขุททกปาฐะ                         | มหานิทเทส | Kn | Khuddaka Nikaya |
+| ขุ. ขุ. | ขุททกปาฐะ                         | ขุททกนิกาย | Kn | Khuddaka Nikaya | Khuddakapatha |
+| ธ. ขุ. | ขุททกปาฐะ                         | ธรรมบท | Kn | Khuddaka Nikaya | Dhammapada |
+| อุ. ขุ. | ขุททกปาฐะ                         | อุทาน | Kn | Khuddaka Nikaya | Udana |
+| อิติวุ. ขุ. | ขุททกปาฐะ                         | อิติวุตตกะ | Kn | Khuddaka Nikaya | Itivuttaka |
+| สุตฺต. ขุ. | ขุททกปาฐะ                         | สุตตนิบาต | Kn | Khuddaka Nikaya | Sutta Nipata |
+| วิมาน. ขุ. | ขุททกปาฐะ                         | วิมานวัตถุ | Kn | Khuddaka Nikaya | Vimanavatthu | 
+| เปต. ขุ. | ขุททกปาฐะ                         | เปตวัตถุ | Kn | Khuddaka Nikaya | Petavatthu |
+| เถร. ขุ. | ขุททกปาฐะ                         | เถรคาถา | Kn | Khuddaka Nikaya | Theragatha |
+| เถรี. ขุ. | ขุททกปาฐะ                         | เถรีคาถา | Kn | Khuddaka Nikaya | Therigatha |
+| ชา. ขุ. | ขุททกปาฐะ                         | ชาดก | Kn | Khuddaka Nikaya | Jataka |
+| มหานิ. ขุ. | ขุททกปาฐะ                         | มหานิทเทส | Kn | Khuddaka Nikaya | Niddesa |
 | จูฬนิ. ขุ. | ขุททกปาฐะ                         | จูฬนิทเทส | Kn | Khuddaka Nikaya |
-| ปฏิสมฺ. ขุ. | ขุททกปาฐะ                         | ปฏิสัมภิทามรรค | Kn | Khuddaka Nikaya |
-| อปท. ขุ. | ขุททกปาฐะ                         | อปทาน | Kn | Khuddaka Nikaya |
-| พุทฺธว. ขุ. | ขุททกปาฐะ                         | พุทธวงส์ | Kn | Khuddaka Nikaya |
-| จริยา. ขุ. | ขุททกปาฐะ                         | จริยาปิฎก | Kn | Khuddaka Nikaya |
+| ปฏิสมฺ. ขุ. | ขุททกปาฐะ                         | ปฏิสัมภิทามรรค | Kn | Khuddaka Nikaya | Patisambhidamagga |
+| อปท. ขุ. | ขุททกปาฐะ                         | อปทาน | Kn | Khuddaka Nikaya | Apadana |
+| พุทฺธว. ขุ. | ขุททกปาฐะ                         | พุทธวงส์ | Kn | Khuddaka Nikaya | Buddhavamsa |
+| จริยา. ขุ. | ขุททกปาฐะ                         | จริยาปิฎก | Kn | Khuddaka Nikaya | Cariyapitaka |
 
 
