@@ -8,7 +8,7 @@
 | จุลล. วิ. | จุลวรรค                         | วินัยปิฏก | Vin    | Vinaya Pitaka |
 | ปริวาร. วิ. | ปรวารวรรค                         | วินัยปิฏก | Vin    | Vinaya Pitaka |
 | สี. ที. | สีลขันธวรรค                         | ทีฑนิกาย | Dn | Digha Nikaya | Silakkhandha-vagga |
-| มหา. ที. | มหาวรรค                         | ทีฑนิกาย | Dn | Digha Nikaya | Maha-vagga |
+| มหา. ที. | [มหาวรรค](https://github.com/tatpongkatanyukul/Ta3/blob/main/sutta/MahaVagga.md)                         | ทีฑนิกาย | Dn | Digha Nikaya | Maha-vagga |
 | ปา. ที. | ปาฏิกวรรค                         | ทีฑนิกาย | Dn | Digha Nikaya | Patika-vagga |
 | มู. ม. | มูลปัณณาสก์                         | มัชฌิมนิกาย | Mn | Majjhima Nikaya |
 | ม. ม. | มัชฌิมปัณณาสก์                         | มัชฌิมนิกาย | Mn | Majjhima Nikaya |
