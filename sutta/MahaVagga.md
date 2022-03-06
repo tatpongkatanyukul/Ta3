@@ -1,6 +1,70 @@
 # Maha Vagga
 มหาวรรค
 
+## 273
+[มหาสติปัฏฐานสูตร (๒๒)](https://84000.org/tipitaka/read/r.php?B=10&A=6257&eng=)
+
+[๒๗๓] ข้าพเจ้าได้สดับมาอย่างนี้-
+             สมัยหนึ่ง พระผู้มีพระภาคประทับอยู่ในกุรุชนบท มีนิคมของชาวกุรุ ชื่อว่า
+กัมมาสทัมมะ ณ ที่นั้น พระผู้มีพระภาคตรัสเรียกภิกษุทั้งหลายว่า ดูกรภิกษุ
+ทั้งหลาย ภิกษุเหล่านั้นทูลรับพระผู้มีพระภาคว่า พระพุทธเจ้าข้า พระผู้มีพระภาค
+ได้ตรัสพระพุทธภาษิตนี้ว่า ดูกรภิกษุทั้งหลาย หนทางนี้เป็นที่ไปอันเอก เพื่อ
+ความบริสุทธิ์ของเหล่าสัตว์ เพื่อล่วงความโศกและปริเทวะ เพื่อความดับสูญ
+แห่งทุกข์และโทมนัส เพื่อบรรลุธรรมที่ถูกต้อง เพื่อทำให้แจ้งซึ่งพระนิพพาน
+หนทางนี้ คือ สติปัฏฐาน ๔ ประการ ๔ ประการ เป็นไฉน ดูกรภิกษุทั้งหลาย
+ภิกษุในธรรมวินัยนี้ พิจารณาเห็นกายในกายอยู่ มีความเพียร มีสัมปชัญญะ
+มีสติ กำจัดอภิชฌาและโทมนัสในโลกเสียได้ ๑ พิจารณาเห็นเวทนาในเวทนาอยู่
+มีความเพียร มีสัมปชัญญะ มีสติ กำจัดอภิชฌาและโทมนัสในโลกเสียได้ ๑
+พิจารณาเห็นจิตในจิตอยู่ มีความเพียร มีสัมปชัญญะ มีสติ กำจัดอภิชฌาและ
+โทมนัสในโลกเสียได้ ๑ พิจารณาเห็นธรรมในธรรมอยู่ มีความเพียร มีสัมปชัญญะ
+มีสติ กำจัดอภิชฌาและโทมนัสในโลกเสียได้ ๑ ฯ
+
+[English version DN22](https://accesstoinsight.org/tipitaka/dn/dn.22.0.than.html)
+
+I have heard that on one occasion the Blessed One was staying in the Kuru country. Now there is a town of the Kurus called Kammasadhamma. There the Blessed One addressed the monks, "Monks."
+
+"Lord," the monks replied.
+
+The Blessed One said this: "This is the direct path for the purification of beings, for the overcoming of sorrow & lamentation, for the disappearance of pain & distress, for the attainment of the right method, & for the realization of Unbinding — in other words, the four frames of reference. Which four?
+
+"There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world. He remains focused on feelings... mind... mental qualities in & of themselves — ardent, alert, & mindful — putting aside greed & distress with reference to the world.
+
+| ไทย | English |
+|-----|---------|
+| [๒๗๔] ดูกรภิกษุทั้งหลาย ภิกษุพิจารณาเห็นกายในกายอยู่อย่างไรเล่า
+ภิกษุในธรรมวินัยนี้ ไปสู่ป่าก็ดี ไปสู่โคนไม้ก็ดี ไปสู่เรือนว่างก็ดี นั่งคู้บัลลังก์
+ตั้งกายตรง ดำรงสติไว้เฉพาะหน้า เธอมีสติหายใจออก มีสติหายใจเข้า เมื่อ
+หายใจออกยาว ก็รู้ชัดว่า เราหายใจออกยาว เมื่อหายใจเข้ายาว ก็รู้ชัดว่า เรา
+หายใจเข้ายาว เมื่อหายใจออกสั้น ก็รู้ชัดว่า เราหายใจออกสั้น เมื่อหายใจเข้า
+สั้น ก็รู้ชัดว่า เราหายใจเข้าสั้น ย่อมสำเหนียกว่า เราจักเป็นผู้กำหนดรู้ตลอด
+กองลมหายใจทั้งปวงหายใจออก ย่อมสำเหนียกว่า เราจักเป็นผู้กำหนดรู้ตลอดกอง
+ลมหายใจทั้งปวงหายใจเข้า ย่อมสำเหนียกว่า เราจักระงับกายสังขารหายใจออก
+ย่อมสำเหนียกว่า เราจักระงับกายสังขารหายใจเข้า ดูกรภิกษุทั้งหลาย นายช่าง
+กลึงหรือลูกมือของนายช่างกลึงผู้ขยัน เมื่อชักเชือกกลึงยาว ก็รู้ชัดว่า เราชักยาว
+เมื่อชักเชือกกลึงสั้น ก็รู้ชัดว่า เราชักสั้น แม้ฉันใด ภิกษุก็ฉันนั้นเหมือนกัน
+เมื่อหายใจออกยาว ก็รู้ชัดว่า เราหายใจออกยาว เมื่อหายใจเข้ายาว ก็รู้ชัดว่า
+เราหายใจเข้ายาว เมื่อหายใจออกสั้น ก็รู้ชัดว่า เราหายใจออกสั้น เมื่อหายใจ
+เข้าสั้น ก็รู้ชัดว่า เราหายใจเข้าสั้น ย่อมสำเหนียกว่า เราจักเป็นผู้กำหนดรู้กองลม
+ทั้งปวงหายใจออก ย่อมสำเหนียกว่า เราจักเป็นผู้กำหนดรู้กองลมทั้งปวงหายใจเข้า
+ย่อมสำเหนียกว่า เราจักระงับกายสังขารหายใจออก ย่อมสำเหนียกว่า เรา
+จักระงับกายสังขารหายใจเข้า ดังพรรณนามาฉะนี้ ภิกษุย่อมพิจารณาเห็นกายใน
+กายภายในบ้าง พิจารณาเห็นกายในกายภายนอกบ้าง พิจารณาเห็นกายในกายทั้ง
+ภายในทั้งภายนอกบ้าง พิจารณาเห็นธรรมคือความเกิดขึ้นในกายบ้าง พิจารณาเห็น
+ธรรมคือความเสื่อมในกายบ้าง พิจารณาเห็นธรรมคือทั้งความเกิดขึ้นทั้งความเสื่อม
+ในกายบ้าง ย่อมอยู่ อีกอย่างหนึ่ง สติของเธอที่ตั้งมั่นอยู่ว่า กายมีอยู่ ก็เพียง
+สักว่าความรู้ เพียงสักว่าอาศัยระลึกเท่านั้น เธอเป็นผู้อันตัณหาและทิฐิไม่อาศัย
+อยู่แล้ว และไม่ถือมั่นอะไรๆ ในโลก ดูกรภิกษุทั้งหลาย อย่างนี้แล ภิกษุชื่อว่า
+พิจารณาเห็นกายในกายอยู่ ฯ 
+| "And how does a monk remain focused on the body in & of itself?
+
+[1] "There is the case where a monk -- having gone to the wilderness, to the shade of a tree, or to an empty building -- sits down folding his legs crosswise, holding his body erect and setting mindfulness to the fore [lit: the front of the chest]. Always mindful, he breathes in; mindful he breathes out.
+
+"Breathing in long, he discerns that he is breathing in long; or breathing out long, he discerns that he is breathing out long. Or breathing in short, he discerns that he is breathing in short; or breathing out short, he discerns that he is breathing out short. He trains himself to breathe in sensitive to the entire body and to breathe out sensitive to the entire body. He trains himself to breathe in calming bodily fabrication and to breathe out calming bodily fabrication. Just as a skilled turner or his apprentice, when making a long turn, discerns that he is making a long turn, or when making a short turn discerns that he is making a short turn; in the same way the monk, when breathing in long, discerns that he is breathing in long; or breathing out short, he discerns that he is breathing out short... He trains himself to breathe in calming bodily fabrication, and to breathe out calming bodily fabrication.
+
+"In this way he remains focused internally on the body in & of itself, or externally on the body in & of itself, or both internally & externally on the body in & of itself. Or he remains focused on the phenomenon of origination with regard to the body, on the phenomenon of passing away with regard to the body, or on the phenomenon of origination & passing away with regard to the body. Or his mindfulness that ’There is a body’ is maintained to the extent of knowledge & remembrance. And he remains independent, unsustained by (not clinging to) anything in the world. This is how a monk remains focused on the body in & of itself. |
+
+
+
 ## 10/348/299
 
 พุทธวจน
