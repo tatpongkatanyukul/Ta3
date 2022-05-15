@@ -17,6 +17,34 @@ Ajahn Brahm:
 ## เขียนไว้เก่า ๆ 
   * [Samsara: logics and discussions (Apr 9, 2016)](https://github.com/tatpongkatanyukul/Ta3/blob/main/samsara1.md)
 
+## 2022
+
+ศัพท์สับสน
+* กรรม (kamma: action; deed)
+  * อกุศลกรรม: การกระทำที่เกิดจากอกุศลมูล คือ โลภะ โทสะ โหมะ
+  * กุศลกรรม: กรรมที่ดี เกิดจากปัญญา ส่งเสริมคุณภาพของชีวิตและจิตใจ 
+* ธรรม
+  * ธรรมนิยาม (natural law)
+    *  สพฺเพ สงฺขารา อนิจฺจา (all conditional states are impermanent)
+    *  สพฺเพ สงฺขารา ทุกฺขา (all conditional states are subject to suffering)
+    *  สพฺเพ สงฺขารา อนตฺตา (all conditional states are not-self)
+  * ธรรม 2 (conditions/things/states)
+    * รูปธรรม/อรูปธรรม: รูปขันธ์/นามขันธ์และนิพพาน
+    * โลกียธรรม/โลกุตตรธรรม: ธรรมอันเป็นวิสัยของโลก/โลกุตตรธรรม 9
+      * โลกุตตรธรรม 9:  
+    * สังขตธรรม/อสังขตธรรม: ขันธ์ 5 (conditioned states)/นิพพาน (unconditioned state)
+  * ธรรม 3 (activities/thoughts)
+    * กุศลธรรม (Kusula dhamma): สภาวะที่ดีงาม
+    * อกุศลธรรม (Akusula dhamma): สภาวะที่ตรงข้ามกับกุศล
+    * อัพยากตธรรม (Abyakata-dhamma): สภาวะที่เป็นกลาง ๆ ชี้ขาดไม่ได้ว่าเป็นกุศล หรืออกุศล
+
+* สังขาร
+* เวทนา
+
+src
+* [Oxford Dictionary of Buddishm](https://www.oxfordreference.com/view/10.1093/acref/9780198605607.001.0001/acref-9780198605607) (need user/password)
+* [Digital Dictionary of Buddhism](http://www.buddhism-dict.net/ddb/) (need user/password!)
+
 ## 2021
 
 ### นิยาม 5
