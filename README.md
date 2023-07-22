@@ -99,6 +99,19 @@ Ajahn Brahm:
 ภิกษุทั้งหลาย! **นี้เราเรียกว่า อริยสัจ คือ หนทางเป็นเครื่องให้ถึงความดับไม่เหลือแห่งทุกข์.**
 
 
+> And what is the noble truth of the path of practice leading to the cessation of stress? Just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
+> "And what is right view? Knowledge with regard to stress, knowledge with regard to the origination of stress, knowledge with regard to the cessation of stress, knowledge with regard to the way of practice leading to the cessation of stress: This is called right view.
+> "And what is right resolve? Aspiring to renunciation, to freedom from ill will, to harmlessness: This is called right resolve.
+> "And what is right speech? Abstaining from lying, from divisive speech, from abusive speech, & from idle chatter: This is called right speech.
+> "And what is right action? Abstaining from taking life, from stealing, & from illicit sex. This is called right action.
+> "And what is right livelihood? There is the case where a disciple of the noble ones, having abandoned dishonest livelihood, keeps his life going with right livelihood: This is called right livelihood.
+> "And what is right effort? There is the case where a monk generates desire, endeavors, arouses persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen... for the sake of the abandoning of evil, unskillful qualities that have arisen... for the sake of the arising of skillful qualities that have not yet arisen... (and) for the maintenance, non-confusion, increase, plenitude, development, & culmination of skillful qualities that have arisen: This is called right effort.
+> "And what is right mindfulness? There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world. He remains focused on feelings in & of themselves... the mind in & of itself... mental qualities in & of themselves — ardent, alert, & mindful — putting aside greed & distress with reference to the world. This is called right mindfulness.
+> "And what is right concentration? There is the case where a monk — quite withdrawn from sensuality, withdrawn from unskillful (mental) qualities — enters & remains in the first jhana: rapture & pleasure born from withdrawal, accompanied by directed thought & evaluation. With the stilling of directed thoughts & evaluations, he enters & remains in the second jhana: rapture & pleasure born of composure, unification of awareness free from directed thought & evaluation — internal assurance. With the fading of rapture, he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhana, of which the Noble Ones declare, 'Equanimous & mindful, he has a pleasant abiding.' With the abandoning of pleasure & pain — as with the earlier disappearance of elation & distress — he enters & remains in the fourth jhana: purity of equanimity & mindfulness, neither pleasure nor pain. This is called right concentration.
+> "This is called the noble truth of the path of practice leading to the cessation of stress.
+
+(src: https://accesstoinsight.org/tipitaka/dn/dn.22.0.than.html)
+
 ---
 
 ## 2022
